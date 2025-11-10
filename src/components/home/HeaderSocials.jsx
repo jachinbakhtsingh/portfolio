@@ -17,9 +17,9 @@ const HeaderSocials = () => {
                 <SiHashnode />
             </a>
 
-            <a href='https://dev.to/gregsithole' className='home__social-link' target='_blank' rel='noreferrer'>
+            {/* <a href='https://dev.to/gregsithole' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaDev />
-            </a>
+            </a> */}
 
         </div>
     );
