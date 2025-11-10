@@ -17,7 +17,7 @@ const HeaderSocials = () => {
                 <SiHashnode />
             </a>
 
-            <a href='https://leetcode.com/u/jachinbakhtsingh703/' className='home__social-link' target='_blank' rel='noreferrer'>
+            <a href='' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaDev />
             </a> 
 
