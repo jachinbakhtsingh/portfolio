@@ -17,9 +17,7 @@ const HeaderSocials = () => {
                 <SiHashnode />
             </a>
 
-            <a href='' className='home__social-link' target='_blank' rel='noreferrer'>
-                <FaDev />
-            </a> 
+            
 
         </div>
     );
